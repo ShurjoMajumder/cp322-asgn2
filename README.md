@@ -10,4 +10,4 @@ Completed By: Shurjo Majumder
 
 The answers to Part 3 are located in these files:
 1. [Linear Regression Notebook](./notebooks/linear_regression_notebook.ipynb)
-2. 
+2. [Report](./reports/Assignment2.md)
